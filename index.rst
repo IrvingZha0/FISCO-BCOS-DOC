@@ -17,7 +17,7 @@ Based on FISCO BCOS's blockchain platform, different blockchain scenarios can be
 
 So, what is FISCO BCOS? It is a platform/community with software developers building blockchain frameworks and solutions.
 
-The open source license for FISCO BCOS is GPL3.0. Join us at `Github <https://github.com/FISCO-BCOS>`_ and our `WhitePaper <https://github.com/FISCO-BCOS/whitepaper/blob/master/FISCO%20BCOS%20Whitepaper(EN).pdf>`_.
+The open source license for FISCO BCOS is GPL3.0. Join us at `Github <https://github.com/FISCO-BCOS>`_ and our `Whitepaper <https://github.com/FISCO-BCOS/whitepaper/blob/master/FISCO%20BCOS%20Whitepaper(EN).pdf>`_.
 
 
 
